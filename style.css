@@ -1,0 +1,48 @@
+body{
+  background-image: url('bg_.jpg');
+  background-size: cover;  
+    
+
+
+}
+
+.main{
+    width: 310px;
+    /* padding-bottom: 10px; */ 
+    border-radius: 15px;
+}
+.buttons button {
+    height: 50px;
+    width: 50px;
+    padding: 10px;
+    border-radius: 10px;
+    background: none;
+    /* border: none; */
+    outline: none;
+    margin: 5px 10px;
+    cursor: pointer;
+    font-size: 1.3em;
+    /* box-shadow: inset 5px 5px 5px rgba(0, 0, 0, 0.2), inset -5px -5px 15px rgba(255, 255, 255, 0.1), 5px 5px 15px rgba(0, 0, 0, 0.3), -5px -5px 15px rgba(255, 255, 255, 0.1) */
+}
+.buttons button:hover {
+    background-color: maroon;
+}
+input{
+    width: 260px;
+    margin: auto;
+    height: 80px;
+    border: none;
+    background-color: maroon;
+    color: white;
+   
+}
+.display{
+    font-size: 2em;
+    background-color: maroon;
+    border-radius: 15px;
+}
+.equalTo{
+    background-color: maroon;
+}
+
+
